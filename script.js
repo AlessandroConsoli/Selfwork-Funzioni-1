@@ -14,3 +14,4 @@ console.log(punteggioParziale);
 console.log(punteggioTotale);
 
 
+
